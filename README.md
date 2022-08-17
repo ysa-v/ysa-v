@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ysa-v
-- 👀 I’m interested in building my career as a software developer.
-- 🌱 I’m currently learning javascript, angular, C#, HTML, & CSS.
+- 👋 Hi, I’m Ysabel.
+- 👀 I’ve transitioned from academia into software development.
+- 🌱 I’m currently learning C#.
 - 📫 How to reach me: ysa.vandenberg@gmail.com
 
 <!---
